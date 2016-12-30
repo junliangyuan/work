@@ -40,8 +40,8 @@ Windows:[SourceTree](https://www.sourcetreeapp.com/)
 
 ## 服务器上Git地址
 
-测试使用： ```git clone git@192.168.198.202:/gitReps/gitProject.git```
+测试使用： `git clone git@192.168.198.202:/gitReps/gitProject.git`
 
-React项目使用: ```git clone git@192.168.198.202:/gitReps/reactProject.git```
+React项目使用: `git clone git@192.168.198.202:/gitReps/reactProject.git`
 
-Node.js项目使用: ```git clone git@192.168.198.202:/gitReps/nodeProject.git```
+Node.js项目使用: `git clone git@192.168.198.202:/gitReps/nodeProject.git`
