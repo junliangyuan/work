@@ -2,6 +2,8 @@
 
 ---
 
+[团队学习资料](https://github.com/junliangyuan/work/blob/master/study.md)
+
 [TOC]
 
 ## 12/28号
@@ -32,10 +34,8 @@
 - 熟悉React代码规则，写一个React的Demo
 - [了解Restify框架(一个RestfulApi框架)](https://segmentfault.com/a/1190000000369308)
 - 了解并在项目中使用Bootstrap
-- [了解最新的原型图](https://pro.modao.cc/app/cvkJqYvEke8k0Jp2lZpKoGIM86mmpG8#screen=s90F6856B971482378492142)
+- 了解最新的原型图(原型图找我来要)
 - [掌握webpack打包工具](http://blog.csdn.net/yczz/article/details/49250623)
-
-- [最新的原型设计图](https://pro.modao.cc/app/cvkJqYvEke8k0Jp2lZpKoGIM86mmpG8#screen=s90F6856B971482378492142)
 
 ## 12/30号
 
