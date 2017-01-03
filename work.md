@@ -47,7 +47,7 @@
 ## 1/3号
 
 - 整理一下上周学过的内容
-- 熟悉[socket.io](https://github.com/socketio/socket.io)框架
+- 熟悉:[React Router](https://github.com/ReactTraining/react-router),推荐文章:[React Router中文文档](https://react-guide.github.io/react-router-cn/docs/Introduction.html)
 
 
 
