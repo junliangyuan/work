@@ -44,6 +44,10 @@
 - 使用React-Bootstrap搭建工作页面(发到群里的那个原型图中的美味不用等那一页)
 
 
+## 1/3号
+
+- 整理一下上周学过的内容
+- 熟悉[socket.io](https://github.com/socketio/socket.io)框架
 
 
 
