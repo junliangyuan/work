@@ -60,6 +60,7 @@
 
 - Node.js发送Http请求:[Request - Simplified HTTP client](https://github.com/request/request)
 - [Restify RestFul Api Demo](https://github.com/junliangyuan/restify-api)
+- 项目Api文档地址:http://baoxiuapiwd.applinzi.com/#/index
 - Git仓库
 
 ```
@@ -68,4 +69,4 @@
 ```
 
 **clone 之后就切换到branch1，然后再进行后续操作**
-- 项目Api文档地址:http://baoxiuapiwd.applinzi.com/#/index
+
