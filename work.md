@@ -55,3 +55,16 @@
 - 熟悉[socket.io](https://github.com/socketio/socket.io)框架
 - Node.js中兼容Https请求，推荐文章:[Nodejs+Express创建HTTPS服务器](http://www.jianshu.com/p/853099ae2edd)
 
+
+## 1/5号
+
+- Node.js发送Http请求:[Request - Simplified HTTP client](https://github.com/request/request)
+- [Restify RestFul Api Demo](https://github.com/junliangyuan/restify-api)
+- Git仓库
+
+```
+地址:git@192.168.198.202:/gitReps/reactProject.git
+密码:baoxiu
+```
+
+**clone 之后就切换到branch1，然后再进行后续操作**
