@@ -50,5 +50,8 @@
 - 熟悉:[React Router](https://github.com/ReactTraining/react-router),推荐文章:[React Router中文文档](https://react-guide.github.io/react-router-cn/docs/Introduction.html)
 
 
+## 1/4号
 
-
+- 使用React-Route传递参数
+- 熟悉[socket.io](https://github.com/socketio/socket.io)框架
+- Node.js中兼容Https请求，推荐文章:[Nodejs+Express创建HTTPS服务器](http://www.jianshu.com/p/853099ae2edd)
